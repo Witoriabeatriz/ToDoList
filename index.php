@@ -15,8 +15,8 @@
     </div>    
     <div class ="form">
         <form action="" method="get">
-            <label for="task_name"></label>
-            <input type="text" name="task_name" placehorder="Nome da tarefa">
+            <label for="task_name">Tarefa:</label>
+            <input type="text" name="task_name" placeholder="Nome da tarefa">
             <button type="submit"> Cadastrar</button>
         </form>
     </div>
